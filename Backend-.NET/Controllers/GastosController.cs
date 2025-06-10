@@ -19,7 +19,7 @@ namespace TP.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Gastos>>> Get()
         {
-            return await _context.Gastos.ToListAsync();
+            return await _context.Gastos.OrderByDescending(x => x.Fecha).ToListAsync();
         }
         [HttpPost]
         public async Task<ActionResult<Gastos>> Post(Gastos gastos)
