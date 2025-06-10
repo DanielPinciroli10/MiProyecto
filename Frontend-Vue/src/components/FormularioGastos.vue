@@ -39,7 +39,7 @@
         console.log('guardado exitoso');
         mensaje.value = 'Los datos fueron guardados correctamente';
         colorMensaje.value = 'mensaje-Exitoso';
-        gasto.value = { Monto: null, Descripcion: '', Fecha: '', NombreComercio: '' };
+        LimpiarDatos();
       } else {
         mensaje.value = 'Error al guardar los datos ingresados';
         colorMensaje.value = 'mensaje-Error';
@@ -49,6 +49,13 @@
       colorMensaje.value = 'mensaje-Error';
     }
   }
+  function LimpiarDatos() {
+    gasto.value.Monto = null;
+    gasto.value.Descripcion = '';
+    gasto.value.Fecha = '';
+    gasto.value.NombreComercio = ''
+  }
+  LimpiarDatos();
 </script>
 <style scoped>
 form {
