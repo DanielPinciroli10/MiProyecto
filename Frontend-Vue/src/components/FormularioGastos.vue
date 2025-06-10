@@ -26,7 +26,7 @@
       !gasto.value.Fecha || new Date(gasto.value.Fecha) > new Date() ||
       !gasto.value.NombreComercio || gasto.value.NombreComercio.length > 250
     ) {
-      mensaje.value = 'Ha ocurrido un error verifique los datos ingresados';
+      mensaje.value = 'Ha ocurrido un error. Verifique los datos ingresados';
       return;
     }
     try {

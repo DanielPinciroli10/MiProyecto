@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- <button @click="CargarGastos">Actualizar</button> -->
     <table v-if="gastos.length">
       <thead>
         <tr>

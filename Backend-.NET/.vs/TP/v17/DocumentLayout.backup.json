@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\tp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Gastos.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Models\\Gastos.cs",
               "RelativeDocumentMoniker": "Models\\Gastos.cs",
@@ -38,31 +38,30 @@
               "RelativeToolTip": "Models\\Gastos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:55:01.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T19:55:01.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:45:55.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GastosController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Controllers\\GastosController.cs",
               "RelativeDocumentMoniker": "Controllers\\GastosController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Controllers\\GastosController.cs",
               "RelativeToolTip": "Controllers\\GastosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:43:49.316Z",
               "EditorCaption": ""
