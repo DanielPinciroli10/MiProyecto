@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:models\\gastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18D38ABF-5CCA-4033-9552-A5C66850DEE2}|TP.csproj|c:\\users\\user\\desktop\\proyecto gastos\\miproyecto\\backend-.net\\tp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,46 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Gastos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Models\\Gastos.cs",
+              "RelativeDocumentMoniker": "Models\\Gastos.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Models\\Gastos.cs",
+              "RelativeToolTip": "Models\\Gastos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:55:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:45:55.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GastosController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Controllers\\GastosController.cs",
               "RelativeDocumentMoniker": "Controllers\\GastosController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\Controllers\\GastosController.cs",
               "RelativeToolTip": "Controllers\\GastosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:43:49.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TP",
+              "DocumentIndex": 3,
+              "Title": "TP.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\TP.csproj",
               "RelativeDocumentMoniker": "TP.csproj",
               "ToolTip": "C:\\Users\\user\\Desktop\\Proyecto Gastos\\MiProyecto\\Backend-.NET\\TP.csproj",
               "RelativeToolTip": "TP.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T00:43:36.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T00:43:36.322Z"
             }
           ]
         }

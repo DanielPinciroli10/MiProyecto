@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <button @click="CargarGastos">Actualizar</button> -->
-    <table v-if="gastos.length" border="1">
+    <table v-if="gastos.length">
       <thead>
         <tr>
           <th>Fecha</th>
@@ -59,6 +59,7 @@ button:hover {
 }
 table {
   width: 100%;
+  border: 1;
   border-collapse: collapse;
 }
 td {
